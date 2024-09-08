@@ -20,7 +20,8 @@ pip install python-docx
 ```
 ## Usage
 1. Clone the repository:
-```git clone https://github.com/cyberfantics/timetable-generator.git
+```
+git clone https://github.com/cyberfantics/timetable-generator.git
 cd timetable-generator
 ```
 
